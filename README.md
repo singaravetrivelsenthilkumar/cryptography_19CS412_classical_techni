@@ -81,6 +81,19 @@ RESULT :
 Thus the implementation of Caesar cipher had been executed successfully
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## PLAYFAIR CIPHER: 
 
 AIM :
